@@ -1,0 +1,7 @@
+✅ Input Format
+n: number of projects
+
+projects[]: array of integers representing hours required
+
+🎯 Output Format
+An integer representing the minimum difference in workload hours between the two teams.
