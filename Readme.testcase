@@ -1,0 +1,19 @@
+Example Test Cases
+Test Case 1
+
+Code
+Input: projects = [10, 20, 15, 5]
+Output: 0
+Explanation: Team A = [10, 15], Team B = [20, 5] → both have 25 hours.
+Test Case 2
+
+Code
+Input: projects = [3, 1, 4, 2, 2]
+Output: 0
+Explanation: Team A = [3,2,2], Team B = [4,1,2] → both have 7 hours.
+Test Case 3
+
+Code
+Input: projects = [8, 6, 5]
+Output: 3
+Explanation: Team A = [8], Team B = [6,5] → difference = 3.
